@@ -1,0 +1,11 @@
+package sintaxeVariaveisEFluxo;
+
+public class TestaWhile {
+	public static void main(String[] args) {
+		int contador = 0;
+		while (conta-dor <= 10) {
+			System.out.println(contador);
+			contador++;
+		}
+	}
+}
