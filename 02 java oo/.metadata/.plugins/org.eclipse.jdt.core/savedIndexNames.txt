@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\danil\Desktop\alura-codigos\01 java e poo\02 java oo\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+2157897666.index
+1865797976.index
