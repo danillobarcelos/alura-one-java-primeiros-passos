@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\danil\Desktop\alura-codigos\01 java e poo\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
