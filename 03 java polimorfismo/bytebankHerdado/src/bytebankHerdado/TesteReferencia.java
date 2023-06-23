@@ -17,9 +17,9 @@ public class TesteReferencia {
 		ControleBonificacao controle = new ControleBonificacao();
 		controle.registro(g1);
 		
-		Funcionario f1 = new Funcionario();
-		f1.setSalario(2000);
-		controle.registro(f1);
+//		Funcionario f1 = new Funcionario();
+//		f1.setSalario(2000);
+//		controle.registro(f1);
 		
 		EditorVideo ev = new EditorVideo();
 		ev.setSalario(2500);
